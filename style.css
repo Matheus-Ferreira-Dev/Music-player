@@ -39,7 +39,7 @@ body {
 
 .texto h1 {
   text-align: center;
-  font-size: 26px;
+  font-size: 20px;
   margin-right: 50px;
 }
 
@@ -107,7 +107,7 @@ body {
     flex-direction: column;
   }
 
-  .texto h1{
+  .texto h1 {
     margin-bottom: 50px;
   }
 }
