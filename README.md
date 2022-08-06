@@ -8,4 +8,4 @@ Projeto de um mini player de musica
 - JS
 
 ## Funcionalidades
-consiste em uma player que toca apenas uma música
+consiste em um player que toca apenas uma música
