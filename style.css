@@ -20,7 +20,7 @@ body {
   background-color: var(--bg);
   color: white;
   background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url("img/Doom.jpg");
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center-bottom;
 }
@@ -41,6 +41,7 @@ body {
   text-align: center;
   font-size: 22px;
   margin-right: 30px;
+  margin-bottom: 50px;
 }
 
 .control,
